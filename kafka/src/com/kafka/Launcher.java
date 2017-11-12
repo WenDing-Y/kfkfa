@@ -10,6 +10,6 @@ package com.kafka;
 public class Launcher {
 
 	public static void main(String[] args) {
-		System.out.println("this is launcher");
+		System.out.println("this is xxxlauncher");
 	}
 }
